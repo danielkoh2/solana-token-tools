@@ -24,7 +24,7 @@
     "@metaplex-foundation/umi-web3js-adapters": "^0.9.2",
     "@mui/base": "5.0.0-beta.69",
     "@mui/icons-material": "^5.17.1",
-    "@mui/material": "^5.17.1",
+    "@mui/material": "^5.18.0",
     "@mui/system": "^7.1.1",
     "@remix-run/node": "^2.16.5",
     "@remix-run/react": "^2.16.5",
