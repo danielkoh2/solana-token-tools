@@ -51,7 +51,7 @@
     "@types/bs58": "^5.0.0",
     "@types/react": "^18.3.20",
     "@types/react-dom": "^18.3.6",
-    "autoprefixer": "^10.4.21",
+    "autoprefixer": "^10.4.22",
     "postcss": "^8.5.3",
     "sirv-cli": "^3.0.1",
     "typescript": "^5.8.3",
